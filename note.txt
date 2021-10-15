@@ -1,0 +1,13 @@
+- Remove Disqus -done
+- Post first blog -done
+- See how meta tags work -done
+- Add a link for resume -done
+- CNAME in godaddy -done
+- Update facebook page with new links -not needed
+- Update bing/google sitemaps -done
+- Projects should be things like blazor app and maybe other samples you have -done
+- remove all things azure -done
+- Find an icon -done
+- Google analytics in config
+- delete me
+
