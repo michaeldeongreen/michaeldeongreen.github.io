@@ -31,7 +31,7 @@ urls:
     - text: About Me
       url: /about/
     - text: Resumé
-      url: /static/attachments/Michael-Green-Resume.doc
+      url: /static/attachments/Michael-Green-Resume.docx
     - text: My Projects
       url: /projects/
     - text: XML Feed
